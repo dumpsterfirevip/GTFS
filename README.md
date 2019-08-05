@@ -9,3 +9,7 @@ Pi4 is pretty necessary for reasonable speed. You can serve files from a Pi3 but
 
 # Software 
 Samba plus a bit of configuration sauce.
+
+
+# Where's the beef?
+This is a placeholder and after defcon instructions on making your own GTFS will be posted.
