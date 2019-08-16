@@ -1,5 +1,5 @@
 # GTFS
-GTFS - GhetToFileServer.  Minimalist approach to serving a whole bunch of files to people anonymously but basically locked down.
+GTFS - Galactic Transport File Server.  Minimalist approach to serving a whole bunch of files to people anonymously but basically locked down.
 The end goal is to have a simple server that you plug a usb3 hard drive into that shares out that hard drive.
 Currently it's just a specific hard drive's name and not just any hard drive you have on hand.
 
